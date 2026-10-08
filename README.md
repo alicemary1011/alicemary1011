@@ -25,5 +25,5 @@ An AI-powered mock interview platform that generates questions, evaluates answer
 ## Get in touch
 
 <!-- TODO (Alice): replace with your real links -->
-- LinkedIn: _your link_
-- Email: _your email_
+- LinkedIn: https://www.linkedin.com/in/alice-mary-7459612a2/
+- Email: alicemaryvimal@gmail.com
